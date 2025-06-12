@@ -1,0 +1,7 @@
+# by default, ignore everything:
+/*
+
+# ...except:
+!/.gitignore
+!/alacritty
+!/nvim
