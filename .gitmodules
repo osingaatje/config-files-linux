@@ -4,3 +4,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:osingaatje/alacritty-config.git
+[submodule "zed"]
+	path = zed
+	url = git@github.com:osingaatje/zed.git
